@@ -1,2 +1,2 @@
 # voice_command_project
-ben yoruldum hayat
+ben yoruldum hayat 🥲
