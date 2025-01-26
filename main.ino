@@ -2,9 +2,9 @@
 #include "audio_processing.h"
 
 // LED Pinleri
-#define LED_PIN1 4
-#define LED_PIN2 16
-#define LED_PIN3 17
+#define LED_PIN1 13
+#define LED_PIN2 12
+#define LED_PIN3 33
 
 void setup()
 {
